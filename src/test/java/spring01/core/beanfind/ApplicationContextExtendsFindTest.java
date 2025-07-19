@@ -7,7 +7,6 @@ import org.springframework.beans.factory.NoUniqueBeanDefinitionException;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import spring01.core.AppConfig;
 import spring01.core.discount.DiscountPolicy;
 import spring01.core.discount.FixDiscountPolicy;
 import spring01.core.discount.RateDiscountPolicy;
